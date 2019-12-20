@@ -1,4 +1,4 @@
-Develiped with Ruby
+Developed with Ruby
 
 <h2>Description</h2>
 
