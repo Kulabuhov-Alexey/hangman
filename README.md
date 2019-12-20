@@ -5,11 +5,13 @@ Develiped with Ruby
 Hangman("Виселица") - игра в которой требуется угадать слово по буквам.
 Дается возможность ошибиться 7 раз, после чего игра считается проигранной.
 
-С принципами игры можно ознакомиться тут: https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D1%86%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)
+С принципами игры можно ознакомиться тут: [WIKI](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D1%86%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0))
 
 <h2>Get started</h2>
 
-```ruby main.rb```
+```
+ruby main.rb
+```
 
 <h2>Settings</h2>
 
